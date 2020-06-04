@@ -1,0 +1,30 @@
+{
+  "name": "ecoleta",
+  "version": "1.0.0",
+  "description": "♻️ Aplicação Web / Mobile para ajudar pessoas a encontrarem pontos de coleta para reciclagem. Desenvolvido durante a Next Level Weekk da Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelgeronimo/ecoleta.git"
+  },
+  "keywords": [
+    "ecoleta",
+    "rocketseat",
+    "nlw",
+    "next",
+    "level",
+    "week",
+    "typescript",
+    "react",
+    "begginer"
+  ],
+  "author": "Rafael Geronimo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelgeronimo/ecoleta/issues"
+  },
+  "homepage": "https://github.com/rafaelgeronimo/ecoleta#readme"
+}
